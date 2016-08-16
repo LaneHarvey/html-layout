@@ -1,0 +1,22 @@
+.section {
+    width:33.33%;
+    height:100vh;
+    display:inline-block;
+    float: left;
+    background: #4A90E2;
+    position: relative;
+}
+.second{
+    background: #B8E986;
+}
+
+.third{
+    background: #50E3C2;
+}
+.bottom-block {
+    width:100%;
+    height:200px;
+    background: #D0021B;
+    position: absolute;
+    bottom:0;
+}

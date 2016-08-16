@@ -1,0 +1,35 @@
+.main-header {
+  width: 100%;
+  height: 25vh;
+  background: #D8D8D8;
+}
+.section {
+    width:100%;
+    height:25vh;
+    background: #4A90E2;
+    position: relative;
+}
+.second{
+    background: #B8E986;
+}
+
+.third{
+    background: #50E3C2;
+}
+.forth{
+  background: #B8E986;
+}
+.fifth{
+  background: #F8E719;
+}
+
+.top-block {
+    width:17.5vh;
+    height:17.5vh;
+    background: #4A90E2;
+    position:relative;
+    display: inline-block;;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
