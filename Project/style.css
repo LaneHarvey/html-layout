@@ -10,9 +10,10 @@ h1{
   align-items: center;
   justify-content: center;
   font-size: 80px;
-  color: White;
+  color: white;
   font-family: Helvetica;
   font-style: oblique;;
+  font-weight: bold;
 }
 h2{
 height: 140%;
@@ -41,7 +42,6 @@ font-style: italic;
   top:10%;
   left: 10%;
 }
-.pic
-{
+.pic{
   opacity: .8;
 }
